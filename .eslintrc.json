@@ -4,7 +4,7 @@
   "env": {
     "node": true
   },
-  "extends": ["eslint:recommended", "plugin:vue/vue3-recommended", "prettier", "@vue/typescript"],
+  "extends": ["eslint:recommended", "plugin:vue/vue3-recommended", "@vue/typescript", "prettier"],
   "parserOptions": {
     "parser": "@typescript-eslint/parser"
   },
